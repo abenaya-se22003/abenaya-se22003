@@ -11,23 +11,27 @@ I specialize in **modern web development** and **Java backend systems**, and I�
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=
-abenaya-se22003&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=abenaya-se22003&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=
-abenaya-se22003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=abenaya-se22003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"
+    alt="GitHub Stats"
+  />
   
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=
-abenaya-se22003&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abenaya-se22003&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=
-abenaya-se22003&theme=tokyonight&hide_border=true"/>
+  <img
+    src="https://streak-stats.demolab.com?user=abenaya-se22003&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
-
 ---
 
 ## 🚀 About Me
