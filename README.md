@@ -11,17 +11,21 @@ I specialize in **modern web development** and **Java backend systems**, and Iâ€
 ## ğŸ“Š Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VihangaKulathilake&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=
+abenaya-se22003&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VihangaKulathilake&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=
+abenaya-se22003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"/>
   
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VihangaKulathilake&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=
+abenaya-se22003&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=VihangaKulathilake&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=
+abenaya-se22003&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
